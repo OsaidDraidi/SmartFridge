@@ -1,0 +1,781 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net learning\\FridgeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\useritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\useritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net learning\\FridgeProject\\Migrations\\20250319122939_addAuditLogTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250319122939_addAuditLogTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\useritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\useritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net learning\\FridgeProject\\Migrations\\20250319121007_deleteUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250319121007_deleteUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net learning\\FridgeProject\\Migrations\\20250319115345_editOnRecipesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250319115345_editOnRecipesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtocreateuseritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtocreateuseritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net learning\\FridgeProject\\Migrations\\20250318233227_editOnUserItemTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250318233227_editOnUserItemTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtogetuseritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtogetuseritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net learning\\FridgeProject\\Migrations\\20250318141308_addCreatedByColumnToUserItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250318141308_addCreatedByColumnToUserItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtoassignrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtoassignrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtoregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtoregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\geminimodels\\contentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\geminimodels\\contentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\geminimodels\\contentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\geminimodels\\contentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\data\\models\\geminimodels\\promptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:data\\models\\geminimodels\\promptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\services\\igeminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:services\\igeminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtocreaterecipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtocreaterecipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtorecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtorecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtorecipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtorecipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtocreateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtocreateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtogetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtogetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtoexpireditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtoexpireditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtocreaterecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtocreaterecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtogetrecipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtogetrecipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtogetrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtogetrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\dtos\\dtocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:dtos\\dtocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net learning\\FridgeProject\\Migrations\\20250313110825_AddListItemInRecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250313110825_AddListItemInRecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\migrations\\20250313112553_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:migrations\\20250313112553_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|d:\\asp.net learning\\fridgeproject\\migrations\\20250308190009_addrecipeandrecipeitemtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D9D936-1F74-419F-AE00-73ED5E9F4CD3}|FridgeProject.csproj|solutionrelative:migrations\\20250308190009_addrecipeandrecipeitemtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250319122939_addAuditLogTable.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250319122939_addAuditLogTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250319122939_addAuditLogTable.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250319122939_addAuditLogTable.cs",
+              "RelativeToolTip": "Migrations\\20250319122939_addAuditLogTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:29:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditLogController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\AuditLogController.cs*",
+              "RelativeToolTip": "Controllers\\AuditLogController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:26:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\UserItem.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\UserItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\UserItem.cs",
+              "RelativeToolTip": "Data\\Models\\UserItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:17:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserItemsController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\UserItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserItemsController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\UserItemsController.cs",
+              "RelativeToolTip": "Controllers\\UserItemsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:21:58.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAG0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:18:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecipesController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\RecipesController.cs*",
+              "RelativeToolTip": "Controllers\\RecipesController.cs*",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAALUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:48:10.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:52:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\AuditLog.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Data\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:43:38.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:44:01.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250319121007_deleteUserTable.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250319121007_deleteUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250319121007_deleteUserTable.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250319121007_deleteUserTable.cs",
+              "RelativeToolTip": "Migrations\\20250319121007_deleteUserTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:10:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250319115345_editOnRecipesTable.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250319115345_editOnRecipesTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250319115345_editOnRecipesTable.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250319115345_editOnRecipesTable.cs",
+              "RelativeToolTip": "Migrations\\20250319115345_editOnRecipesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:53:45.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Item.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\Item.cs",
+              "RelativeToolTip": "Data\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:16:43.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Recipe.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\Recipe.cs",
+              "RelativeToolTip": "Data\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:37:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dtoCreateUserItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateUserItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoCreateUserItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateUserItem.cs",
+              "RelativeToolTip": "DTOs\\dtoCreateUserItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:50:21.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250318233227_editOnUserItemTable.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250318233227_editOnUserItemTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250318233227_editOnUserItemTable.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250318233227_editOnUserItemTable.cs",
+              "RelativeToolTip": "Migrations\\20250318233227_editOnUserItemTable.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:32:27.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\AppUser.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\AppUser.cs",
+              "RelativeToolTip": "Data\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:21:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecipeItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\RecipeItem.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\RecipeItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\RecipeItem.cs",
+              "RelativeToolTip": "Data\\Models\\RecipeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:38:37.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:22:30.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwGgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:08:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Category.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\Category.cs",
+              "RelativeToolTip": "Data\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:16:09.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dtoGetUserItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetUserItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoGetUserItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetUserItem.cs",
+              "RelativeToolTip": "DTOs\\dtoGetUserItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:21:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250318141308_addCreatedByColumnToUserItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250318141308_addCreatedByColumnToUserItem.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250318141308_addCreatedByColumnToUserItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250318141308_addCreatedByColumnToUserItem.cs",
+              "RelativeToolTip": "Migrations\\20250318141308_addCreatedByColumnToUserItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:13:09.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dtoAssignRole.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoAssignRole.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoAssignRole.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoAssignRole.cs",
+              "RelativeToolTip": "DTOs\\dtoAssignRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:42:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwCsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:13:36.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContentResponse.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\GeminiModels\\ContentResponse.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\GeminiModels\\ContentResponse.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\GeminiModels\\ContentResponse.cs",
+              "RelativeToolTip": "Data\\Models\\GeminiModels\\ContentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:17:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T11:16:10.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Services\\GeminiService.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Services\\GeminiService.cs",
+              "RelativeToolTip": "Services\\GeminiService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:27:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContentRequest.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\GeminiModels\\ContentRequest.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\GeminiModels\\ContentRequest.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\GeminiModels\\ContentRequest.cs",
+              "RelativeToolTip": "Data\\Models\\GeminiModels\\ContentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:18:27.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PromptRequest.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\GeminiModels\\PromptRequest.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\GeminiModels\\PromptRequest.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Data\\Models\\GeminiModels\\PromptRequest.cs",
+              "RelativeToolTip": "Data\\Models\\GeminiModels\\PromptRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:23:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dtoRegister.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoRegister.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoRegister.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoRegister.cs",
+              "RelativeToolTip": "DTOs\\dtoRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:07:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGeminiService.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Services\\IGeminiService.cs",
+              "RelativeDocumentMoniker": "Services\\IGeminiService.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Services\\IGeminiService.cs",
+              "RelativeToolTip": "Services\\IGeminiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:26:12.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dtoCreateRecipeItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateRecipeItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoCreateRecipeItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateRecipeItem.cs",
+              "RelativeToolTip": "DTOs\\dtoCreateRecipeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:33:12.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dtoRecipe.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoRecipe.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoRecipe.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoRecipe.cs",
+              "RelativeToolTip": "DTOs\\dtoRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:33:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dtoRecipeItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoRecipeItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoRecipeItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoRecipeItem.cs",
+              "RelativeToolTip": "DTOs\\dtoRecipeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:35:00.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dtoCreateItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoCreateItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateItem.cs",
+              "RelativeToolTip": "DTOs\\dtoCreateItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:00:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dtoGetItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoGetItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetItem.cs",
+              "RelativeToolTip": "DTOs\\dtoGetItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:30:40.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dtoExpiredItems.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoExpiredItems.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoExpiredItems.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoExpiredItems.cs",
+              "RelativeToolTip": "DTOs\\dtoExpiredItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:50:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dtoCreateRecipe.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateRecipe.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoCreateRecipe.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCreateRecipe.cs",
+              "RelativeToolTip": "DTOs\\dtoCreateRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:49:00.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dtoGetRecipeItem.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetRecipeItem.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoGetRecipeItem.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetRecipeItem.cs",
+              "RelativeToolTip": "DTOs\\dtoGetRecipeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:54:47.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dtoGetRecipe.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetRecipe.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoGetRecipe.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoGetRecipe.cs",
+              "RelativeToolTip": "DTOs\\dtoGetRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:17:50.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dtoLogin.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoLogin.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoLogin.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoLogin.cs",
+              "RelativeToolTip": "DTOs\\dtoLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:38:58.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "dtoCategory.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCategory.cs",
+              "RelativeDocumentMoniker": "DTOs\\dtoCategory.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\DTOs\\dtoCategory.cs",
+              "RelativeToolTip": "DTOs\\dtoCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:59:17.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250313112553_edit.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250313112553_edit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250313112553_edit.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250313112553_edit.cs",
+              "RelativeToolTip": "Migrations\\20250313112553_edit.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:25:53.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250313110825_AddListItemInRecipe.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250313110825_AddListItemInRecipe.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250313110825_AddListItemInRecipe.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250313110825_AddListItemInRecipe.cs",
+              "RelativeToolTip": "Migrations\\20250313110825_AddListItemInRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:08:26.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250308190009_addRecipeAndRecipeItemTable.cs",
+              "DocumentMoniker": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250308190009_addRecipeAndRecipeItemTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250308190009_addRecipeAndRecipeItemTable.cs",
+              "ToolTip": "D:\\asp.net learning\\FridgeProject\\Migrations\\20250308190009_addRecipeAndRecipeItemTable.cs",
+              "RelativeToolTip": "Migrations\\20250308190009_addRecipeAndRecipeItemTable.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:00:09.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

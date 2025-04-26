@@ -1,0 +1,6 @@
+@FridgeProject_HostAddress = http://localhost:5117
+
+GET {{FridgeProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
